@@ -9,7 +9,7 @@ SimAnalysisTools is a package for analyzing your molecular simulations.
 
 Foremost, it is a wrapper for the [MDAnalysis](http://www.mdanalysis.org/) package to perform several analysis of coordinate trajectories. This program is called `simanalysis`
 
-It also contains other tools. 
+It also contains other tools.
 
 Installation
 ============

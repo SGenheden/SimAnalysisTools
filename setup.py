@@ -15,5 +15,5 @@ setup (
 
     packages=['simanalysis',],
     entry_points={'console_scripts': ['simanalysis = simanalysis.tools:simanal', ]},
-    install_requires=['numpy','MDAnalysis',],
+    install_requires=['numpy','MDAnalysis','scikit-learn'],
 )
